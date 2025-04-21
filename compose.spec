@@ -7,7 +7,7 @@
 #
 Name     : compose
 Version  : 2.32.2
-Release  : 2
+Release  : 3
 URL      : https://github.com/docker/compose/archive/refs/tags/v2.32.2.tar.gz
 Source0  : https://github.com/docker/compose/archive/refs/tags/v2.32.2.tar.gz
 Source1  : http://localhost/cgit/projects/compose-vendor/snapshot/compose-vendor-2.32.2.tar.xz

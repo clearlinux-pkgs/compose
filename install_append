@@ -1,2 +1,2 @@
-install -d %{buildroot}/usr/bin/
-install -m0755 bin/build/docker-compose %{buildroot}/usr/bin/
+install -d %{buildroot}/usr/libexec/docker/cli-plugins
+install -m0755 bin/build/docker-compose %{buildroot}/usr/libexec/docker/cli-plugins/
